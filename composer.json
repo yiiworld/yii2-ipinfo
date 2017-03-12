@@ -1,5 +1,5 @@
 {
-    "name": "kartik-v/yii2-ipinfo",
+    "name": "yiiworld/yii2-ipinfo",
     "description": "An IP address information display widget for Yii 2.0 with country flag and geo position info.",
     "keywords": ["yii2", "extension", "module", "ip", "ipinfo", "location", "geo", "position", "country", "flag"],
     "homepage": "https://github.com/kartik-v/yii2-money",
